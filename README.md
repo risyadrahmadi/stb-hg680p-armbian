@@ -614,6 +614,6 @@ Each stage is documented in a separate repository as part of the overall mini-se
 
 **Muhammad Risyad Rahmadi**
 
-Developer Engineer
+DevOps Engineer
 
 Building, automating, and deploying applications with Linux, Docker, Kubernetes, CI/CD, and GitOps.
